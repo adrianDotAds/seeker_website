@@ -1,1 +1,1 @@
-print("ayoko sana")
+print("ayoko na")
